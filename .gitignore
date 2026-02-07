@@ -151,3 +151,4 @@ cython_debug/
 *.tmp
 *.temp
 dump.rdb.env
+.env
